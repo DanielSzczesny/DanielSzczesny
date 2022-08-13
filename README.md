@@ -4,6 +4,8 @@ My name is Daniel
 
 I work as an Automation Engineer, in my spare time I write code in Java and other languages and try to learn technologies such as Spring, Angular, Docker and others that I think may be interesting
 
+![Codewars](https://www.codewars.com/users/DanielSzczesny/badges/micro)
+
 <!--
 **DanielSzczesny/DanielSzczesny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
